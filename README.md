@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Computer Engineering student @ ENSPY Yaoundé · Data Science & AI enthusiast</b><br>
-  I build end-to-end products — from the data and the model to the API and the app people actually use.
+  I build end-to-end products  from the data and the model to the API and the app people actually use.
 </p>
 
 <p align="center">
@@ -64,17 +64,17 @@
 
 ## Awards
 
-- 🥈 **2nd place — IndabaX Cameroon 2026 Hackathon** · AirSentinel, with a mixed ISSEA–ENSPY team
-- 🏆 **Winner — AI HackVerse** · inaugural AI competition of the ENSPY Computer Engineering Club
-- 📊 **1st prize — Statistician of the Year 2025 (Bachelor level)** · Statosphère, ISSEA
-- 💧 **1st prize — AFENSPY & ASPY project contests** · OPAID, a LoRaWAN smart prepaid water meter
-- 🥉 **3rd place — Data4Change Hackathon** · inter-city transport price prediction (Yaoundé – Douala)
+- 🥈 **2nd place  IndabaX Cameroon 2026 Hackathon** · AirSentinel, with a mixed ISSEA–ENSPY team
+- 🏆 **Winner  AI HackVerse** · inaugural AI competition of the ENSPY Computer Engineering Club
+- 📊 **1st prize   Statistician of the Year 2025 (Bachelor level)** · Statosphère, ISSEA
+- 💧 **1st prize  AFENSPY & ASPY project contests** · OPAID, a LoRaWAN smart prepaid water meter
+- 🥉 **3rd place   Data4Change Hackathon** · inter-city transport price prediction (Yaoundé – Douala)
 
 ## Experience
 
-- **Data Science Intern** — Chaning FP, Yaoundé *(Jul – Aug 2025)*<br>
+- **Data Science Intern**  Chaning FP, Yaoundé *(Jul – Aug 2025)*<br>
   Salary distribution analysis with clustering, data visualization and analytical reporting.
-- **Mathematics & Physics Teacher** — Intelligentsia Corporation *(Jun 2023 – Sep 2024)*<br>
+- **Mathematics & Physics Teacher** Intelligentsia Corporation *(Jun 2023 – Sep 2024)*<br>
   Intensive preparation for engineering and medical school entrance exams.
 
 ## Currently exploring
