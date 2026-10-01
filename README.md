@@ -73,6 +73,7 @@ if __name__ == "__main__":
 | 📄 [**Ophélia**](https://github.com/ALEMDJOU/DollPhelia) | Dolibarr ERP module that extracts data from invoices and documents with confidence scores and human validation. | Tesseract OCR · LayoutLMv3 · Python · PHP |
 | 📚 [**XCCM2**](https://github.com/Git-Tomson/XCCM2-API) | Platform for composing educational content from reusable "granules". I developed the backend API. | Backend API · [Live demo](https://xccm-2.vercel.app) |
 | 🏥 [**AssureEver**](https://github.com/ALEMDJOU/assureever-api) | Social security management platform: members, prescriptions, reimbursements, PDF invoices. | FastAPI · SQLAlchemy · PostgreSQL · Next.js 15 |
+| 💬 [**Yowyob Feedback**](https://github.com/ALEMDJOU/yowyob_feedback_frontend) | Platform where a company's interns share feedback and impressions, built from an existing prototype. I developed the frontend. | TypeScript · Next.js · [Live demo](https://yowyob-feedback-frontend.vercel.app) |
 
 ➡️ More projects on my [portfolio](https://portfoliofofackhenri.vercel.app/projets.html).
 
