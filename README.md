@@ -12,7 +12,7 @@
 
 ## 👋 About me
 
-- 🎓 4th-year Computer Engineering student at the **National Advanced School of Engineering of Yaoundé (ENSPY)**, Cameroon
+- 🎓 5th-year (final-year) Computer Engineering student at the **National Advanced School of Engineering of Yaoundé (ENSPY)**, Cameroon
 - 🧠 Generalist engineering background (software, web, IoT) with a strong focus on **Data Science, Machine Learning and Deep Learning**
 - 🏆 **6 awards** in hackathons and project competitions, including 2nd place at **IndabaX Cameroon 2026**
 - 🌍 French (fluent) · English (intermediate) · German (beginner)
@@ -39,7 +39,7 @@ class CurrentJourney:
     """What I'm learning and building right now."""
 
     def __init__(self):
-        self.studying = "Computer Engineering @ ENSPY, 4th year"
+        self.studying = "Computer Engineering @ ENSPY, 5th (final) year"
         self.learning = {
             "deep_learning": ["CNN architectures", "Transformers & attention"],
             "computer_vision": ["Real-time object detection", "Medical image analysis"],
