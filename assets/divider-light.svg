@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="12" viewBox="0 0 1200 12">
+  <style>
+    .pulse { animation: move 4s linear infinite; }
+    @keyframes move { from { transform: translateX(-300px); } to { transform: translateX(1200px); } }
+    @media (prefers-reduced-motion: reduce) { .pulse { animation: none; } }
+  </style>
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0%" stop-color="#0080ff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#0080ff" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#0080ff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="5" width="1200" height="2" rx="1" fill="rgba(0,128,255,0.16)"/>
+  <rect class="pulse" x="0" y="4" width="300" height="4" rx="2" fill="url(#g)"/>
+</svg>
